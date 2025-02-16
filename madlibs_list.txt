@@ -3,16 +3,16 @@
 3. Loving
 4. White
 5. December
-6. thirty seven
-7. dogs
-8. pretzels
-9. movie
-10. storage-room
+6. Number
+7. Noun (Plural)
+8. Noun (Plural)
+9. Noun
+10. Room Name
 11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+12. brave
+13. concrete
+14. running
+15. quickly
 16. 3000
 17. seconds
 18. flying
