@@ -9,10 +9,10 @@
 9. Noun
 10. Room Name
 11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+12. brave
+13. concrete
+14. running
+15. quickly
 16. 3000
 17. seconds
 18. flying
